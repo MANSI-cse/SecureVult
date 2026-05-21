@@ -37,15 +37,15 @@ Most security tools do *one* thing. **SecureVault does seven — simultaneously.
 ## 📸 Screenshots & Demo
 
 ### 🖥️ Command Center Dashboard
-> *(Add screenshot: `docs/screenshots/dashboard.png`)*
+> *(Add screenshot: `WhatsApp Image 2026-05-21 at 12.52.41 PM.jpeg`)*
 > Real-time threat analytics with doughnut chart (risk scoring) and intrusion detection timeline
 
 ### 🔐 AES-256 Encryption with QR Export
-> *(Add screenshot: `docs/screenshots/encryption.png`)*
+> *(Add screenshot: `WhatsApp Image 2026-05-21 at 12.52.43 PM.jpeg`)*
 > Encrypt any text with AES-256-CBC, get the cipher + IV, and instantly export as a scannable QR code
 
 ### 🖼️ Image Steganography (LSB)
-> *(Add screenshot: `docs/screenshots/image-stego.png`)*
+> *(Add screenshot: `WhatsApp Image 2026-05-21 at 12.52.42 PM (2).jpeg`)*
 
 | Carrier Image (Input) | Stego Image (Output — message hidden inside) |
 |----------------------|----------------------------------------------|
